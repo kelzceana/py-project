@@ -18,10 +18,9 @@ Before running the program, make sure you have the following dependencies instal
 
 - **Python 3.x**
 - **Required Python libraries**:
-  - `pandas` for data manipulation and analysis.
   - `openpyxl` for reading and writing Excel files.
 
 You can install the required libraries with the following commands:
 
 ```bash
-pip install pandas openpyxl
+pip install  openpyxl
